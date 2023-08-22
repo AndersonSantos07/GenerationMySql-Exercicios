@@ -10,7 +10,7 @@ Cada exercício está organizado em um arquivo individual, numerada sequencialme
 ## Lista de Exercícios
 
 1. **Criando Tabela para empresa de RH**
-   - Crie uma tabela chamada `usuarios` com campos para ID, nome, cpf, cargo e salario.
+   - Crie uma tabela chamada `colaboradores` com campos para ID, nome, cpf, cargo e salario.
    - Insira alguns registros de exemplo.
 
 2. **Criando Tabela para ecommerce de Roupas**
@@ -18,7 +18,7 @@ Cada exercício está organizado em um arquivo individual, numerada sequencialme
    - Adicione alguns produtos à tabela.
 
 2. **Criando Tabela para escola**
-   - Crie uma tabela `produtos` com campos para ID, nome, modelo, categoria e preço.
+   - Crie uma tabela `alunos` com campos para ID, nome, modelo, categoria e preço.
    - Adicione alguns produtos à tabela.
 
 
